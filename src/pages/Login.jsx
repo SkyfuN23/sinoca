@@ -11,6 +11,7 @@ function Login() {
         <Link to="/registro" className="btn">Registrarse</Link>
         <button className="btn" type="submit">Ingresar</button>
       </div>
+      
     </form>
   );
 }

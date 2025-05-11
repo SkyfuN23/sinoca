@@ -96,10 +96,10 @@ a {
 }
 
 .btn-group-panel {
-    flex-direction: column;
+  flex-direction: column;
 }
 
 .btn-group-panel .btn {
-    width: 100%;
-    margin-bottom: 10px;
+  width: 100%;
+  margin-bottom: 10px;
 }
