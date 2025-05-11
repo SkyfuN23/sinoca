@@ -1,9 +1,12 @@
+/* ---------- FUENTE ---------- */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap');
+
 /* ---------- RESETEO GENERAL ---------- */
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: 'Arial', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 15px;
   color: #333;
 }
@@ -103,4 +106,3 @@ input:focus {
 a {
   text-decoration: none;
 }
-
