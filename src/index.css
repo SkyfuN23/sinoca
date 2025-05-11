@@ -90,11 +90,6 @@ input:focus {
   align-items: center;
 }
 
-/* ---------- LINK GENERAL ---------- */
-a {
-  text-decoration: none;
-}
-
 .btn-group-panel {
   flex-direction: column;
 }
@@ -103,3 +98,9 @@ a {
   width: 100%;
   margin-bottom: 10px;
 }
+
+/* ---------- LINK GENERAL ---------- */
+a {
+  text-decoration: none;
+}
+
